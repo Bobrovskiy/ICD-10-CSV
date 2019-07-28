@@ -1,5 +1,7 @@
 # ICD-10-CM
 
+## A comma-separated file of 2019, 2020 ICD-10 codes.
+
 Csv files with diagnosis codes.
 
 File schema:
