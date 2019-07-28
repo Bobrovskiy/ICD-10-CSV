@@ -1,4 +1,4 @@
-# cd-10-cm
+# ICD-10-CM
 
 Csv files with diagnosis codes.
 
